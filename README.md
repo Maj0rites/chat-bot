@@ -1,1 +1,1 @@
-# chat-bot
+# Discord Chan
